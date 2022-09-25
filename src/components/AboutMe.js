@@ -21,7 +21,7 @@ const AboutMe = () => {
           </p>
           </div>
         </div>
-        <div className="flex-row">
+        <div className="flex-row list-of-skill">
           <ul>
             <li>Full Stack Developer</li>
             <li>MERN Stack</li>
