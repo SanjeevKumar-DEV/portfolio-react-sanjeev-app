@@ -261,13 +261,13 @@ footer {
 
 footer a {
   color: var(--light);
-  opacity: .5;
+  opacity: 1;
   margin: 10px 20px;
   transition: all .3s ease-in-out;
 }
 
 footer a:hover {
-  opacity: 1;
+  opacity: 0.5;
 }
 
 textarea {
