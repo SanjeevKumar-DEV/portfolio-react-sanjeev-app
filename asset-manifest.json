@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-react-sanjeev-app/static/css/main.8e77591b.css",
-    "main.js": "/portfolio-react-sanjeev-app/static/js/main.dced8bd3.js",
+    "main.css": "/portfolio-react-sanjeev-app/static/css/main.c836bbd0.css",
+    "main.js": "/portfolio-react-sanjeev-app/static/js/main.a71b789d.js",
     "static/js/787.58da349b.chunk.js": "/portfolio-react-sanjeev-app/static/js/787.58da349b.chunk.js",
     "static/media/portfolioBakground.jpeg": "/portfolio-react-sanjeev-app/static/media/portfolioBakground.6952de7e15df06f51616.jpeg",
     "static/media/sanjeevProfilePhoto.jpeg": "/portfolio-react-sanjeev-app/static/media/sanjeevProfilePhoto.034356d888512c009ce2.jpeg",
     "index.html": "/portfolio-react-sanjeev-app/index.html",
-    "main.8e77591b.css.map": "/portfolio-react-sanjeev-app/static/css/main.8e77591b.css.map",
-    "main.dced8bd3.js.map": "/portfolio-react-sanjeev-app/static/js/main.dced8bd3.js.map",
+    "main.c836bbd0.css.map": "/portfolio-react-sanjeev-app/static/css/main.c836bbd0.css.map",
+    "main.a71b789d.js.map": "/portfolio-react-sanjeev-app/static/js/main.a71b789d.js.map",
     "787.58da349b.chunk.js.map": "/portfolio-react-sanjeev-app/static/js/787.58da349b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e77591b.css",
-    "static/js/main.dced8bd3.js"
+    "static/css/main.c836bbd0.css",
+    "static/js/main.a71b789d.js"
   ]
 }
