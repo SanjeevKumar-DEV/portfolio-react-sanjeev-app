@@ -5,7 +5,7 @@ const Header = (props) => {
   return (
     
     <div>
-      <header className="flex-row space-between px-1">
+      <header className="flex-row px-5 space-between ">
         <h1>Sanjeev Portfolio</h1>
         <img src={porftfolioBackground} alt=""></img>
         {props.children}

@@ -46,9 +46,11 @@ main {
   --primary: #8c54ff;
   --secondary: #31343D;
   --tertiary: #b12704;
+  --fourth:#bf6650;
   --light: #fafafa;
   --dark: #799FBA;
   --darker: #1F3B60;
+  --dark-turquiose:#1b4c58;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -72,7 +74,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
-  background: var(--darker);
+  background: var(--dark-turquiose);
   color: var(--light);
   font-family: 'Open Sans', sans-serif;
 }
@@ -83,20 +85,20 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Aladin', cursive;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   margin: 50px 20px;
   text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 h3 {
@@ -133,7 +135,7 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background: var(--dark-turquiose);
 }
 
 header a {
@@ -225,7 +227,7 @@ header img {
 
 nav {
   position: relative;
-  font-family: 'Aladin', cursive;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 2.5rem;
   margin: 30px 20px;
 }
@@ -395,9 +397,9 @@ textarea {
 }
 
 .navActive {
-  color: var(--secondary);
+  color: var(--fourth);
   cursor: default;
-  text-shadow: 3px 3px 15px rgba(255,255,255, .5);
+  text-shadow: 3px 3px 15px rgba(255,255,255, .2);
 }
 @media only screen and (max-width: 1300px) {
   nav {
