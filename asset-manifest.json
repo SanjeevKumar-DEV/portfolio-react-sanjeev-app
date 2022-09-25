@@ -1,17 +1,33 @@
 {
   "files": {
     "main.css": "/portfolio-react-sanjeev-app/static/css/main.c836bbd0.css",
-    "main.js": "/portfolio-react-sanjeev-app/static/js/main.a71b789d.js",
+    "main.js": "/portfolio-react-sanjeev-app/static/js/main.4d9f7260.js",
     "static/js/787.58da349b.chunk.js": "/portfolio-react-sanjeev-app/static/js/787.58da349b.chunk.js",
+    "static/media/fashionIndustry-Image-Management.png": "/portfolio-react-sanjeev-app/static/media/fashionIndustry-Image-Management.17d01ab492d574fae134.png",
+    "static/media/goToYourMovie.png": "/portfolio-react-sanjeev-app/static/media/goToYourMovie.1efa1de7ab24467b5611.png",
+    "static/media/Go-to-your-Movie.png": "/portfolio-react-sanjeev-app/static/media/Go-to-your-Movie.8807a9f0d90dceaadd17.png",
+    "static/media/goToYourMovieDesktop1.png": "/portfolio-react-sanjeev-app/static/media/goToYourMovieDesktop1.4c22d3107c5f3fee51c5.png",
+    "static/media/calculator.png": "/portfolio-react-sanjeev-app/static/media/calculator.8ef28031bfc456dfb0dd.png",
     "static/media/portfolioBakground.jpeg": "/portfolio-react-sanjeev-app/static/media/portfolioBakground.6952de7e15df06f51616.jpeg",
+    "static/media/goToYourMovieDesktop2.png": "/portfolio-react-sanjeev-app/static/media/goToYourMovieDesktop2.a197cf46fbaa61a15e4a.png",
+    "static/media/Weather.png": "/portfolio-react-sanjeev-app/static/media/Weather.da7a129d56ebdbfb92af.png",
+    "static/media/goToYourMovieDesktop3.png": "/portfolio-react-sanjeev-app/static/media/goToYourMovieDesktop3.2dfc6a6b3a526624649b.png",
+    "static/media/Work-Day-Scheduler.png": "/portfolio-react-sanjeev-app/static/media/Work-Day-Scheduler.2afee832832cc0f69f84.png",
+    "static/media/goToYourMovieDesktop4.png": "/portfolio-react-sanjeev-app/static/media/goToYourMovieDesktop4.088987ba706ea411b225.png",
+    "static/media/Doctor-Appointment.png": "/portfolio-react-sanjeev-app/static/media/Doctor-Appointment.59da01b5956d454efdc5.png",
+    "static/media/goToYourMovieDesktop5.png": "/portfolio-react-sanjeev-app/static/media/goToYourMovieDesktop5.3583f64bec7499ee02be.png",
+    "static/media/workDayScheduler1.png": "/portfolio-react-sanjeev-app/static/media/workDayScheduler1.b7c21a49999d88869b76.png",
+    "static/media/Social-Network-API.png": "/portfolio-react-sanjeev-app/static/media/Social-Network-API.a1b93c9f1f0f2a787703.png",
+    "static/media/Timing-Coding-Quiz.png": "/portfolio-react-sanjeev-app/static/media/Timing-Coding-Quiz.622397ae45c52a5e585a.png",
+    "static/media/passwordGenerator.png": "/portfolio-react-sanjeev-app/static/media/passwordGenerator.c28abb927c7bf6736312.png",
     "static/media/sanjeevProfilePhoto.jpeg": "/portfolio-react-sanjeev-app/static/media/sanjeevProfilePhoto.034356d888512c009ce2.jpeg",
     "index.html": "/portfolio-react-sanjeev-app/index.html",
     "main.c836bbd0.css.map": "/portfolio-react-sanjeev-app/static/css/main.c836bbd0.css.map",
-    "main.a71b789d.js.map": "/portfolio-react-sanjeev-app/static/js/main.a71b789d.js.map",
+    "main.4d9f7260.js.map": "/portfolio-react-sanjeev-app/static/js/main.4d9f7260.js.map",
     "787.58da349b.chunk.js.map": "/portfolio-react-sanjeev-app/static/js/787.58da349b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c836bbd0.css",
-    "static/js/main.a71b789d.js"
+    "static/js/main.4d9f7260.js"
   ]
 }
