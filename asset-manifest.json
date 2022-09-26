@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react-sanjeev-app/static/css/main.c836bbd0.css",
-    "main.js": "/portfolio-react-sanjeev-app/static/js/main.f4d3bbc4.js",
+    "main.js": "/portfolio-react-sanjeev-app/static/js/main.9ed6fe92.js",
     "static/js/787.58da349b.chunk.js": "/portfolio-react-sanjeev-app/static/js/787.58da349b.chunk.js",
     "static/media/fashionIndustry-Image-Management.png": "/portfolio-react-sanjeev-app/static/media/fashionIndustry-Image-Management.17d01ab492d574fae134.png",
     "static/media/goToYourMovie.png": "/portfolio-react-sanjeev-app/static/media/goToYourMovie.1efa1de7ab24467b5611.png",
@@ -23,11 +23,11 @@
     "static/media/sanjeevProfilePhoto.jpeg": "/portfolio-react-sanjeev-app/static/media/sanjeevProfilePhoto.034356d888512c009ce2.jpeg",
     "index.html": "/portfolio-react-sanjeev-app/index.html",
     "main.c836bbd0.css.map": "/portfolio-react-sanjeev-app/static/css/main.c836bbd0.css.map",
-    "main.f4d3bbc4.js.map": "/portfolio-react-sanjeev-app/static/js/main.f4d3bbc4.js.map",
+    "main.9ed6fe92.js.map": "/portfolio-react-sanjeev-app/static/js/main.9ed6fe92.js.map",
     "787.58da349b.chunk.js.map": "/portfolio-react-sanjeev-app/static/js/787.58da349b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c836bbd0.css",
-    "static/js/main.f4d3bbc4.js"
+    "static/js/main.9ed6fe92.js"
   ]
 }
