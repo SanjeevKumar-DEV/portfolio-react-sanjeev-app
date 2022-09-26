@@ -6,11 +6,10 @@
 
 ## Description
 
-> My Work as developer as has been showcased
-> Links to repo and application has been published
-> My resume and short desc about me has been published
-> My contact details through emails and phone number has been published
-> My linkedIn profile and github profile links has been attached 
+-- My Work as developer as has been showcased Links to repo and application has been published 
+-- My resume and short desc about me has been published
+-- My contact details through emails and phone number has been published
+-- My linkedIn profile and github profile links has been attached 
 
 ## Table of Contents
 
