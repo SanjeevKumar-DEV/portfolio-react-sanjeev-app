@@ -30,10 +30,10 @@ const AboutMe = () => {
             <li>NoSQL</li>
             <li>Java Script</li>
             <li>JQuery</li>
-            <li>CSS</li>
+            <li>HTML, CSS</li>
             <li>Indexed DB, Local Storage, Cache, Session, Cookies, Authentication</li>
             <li>Appolo Server, Appolo Client</li>
-            <li>MySQL, SQL, NoSql, MongoDB</li>
+            <li>MySQL, SQL, NoSql, MongoDB, Microsoft SQL, Mongoose</li>
           </ul>
         </div>
       </div>
